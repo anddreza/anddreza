@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou à procura de um estágio na área de Teste e Automação;
-- 🌱 Hoje estudo a área de Teste, faço o curso de Automação 180 da QANinja, mas também estudo a parte de Front-End (HTML, CSS, JS, Angular);
+- 🌱 Hoje estudo a área de Teste, faço o curso de Automação 180 da QANinja;
 - 📫 Você pode me encontrar pelo e-mail: andrezasilva744@gmail.com ou também pelo meu Linkedin: https://www.linkedin.com/in/andreza-silva-931377152/ ;
 - 😄 Pronouns: ela/dela;
 - ⚡ Esportes: Triatlon;
