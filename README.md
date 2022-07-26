@@ -5,7 +5,7 @@
 - 🌱 Hoje estudo a área de Teste, faço o curso de Automação 180 da QANinja;
 - 📫 Você pode me encontrar pelo e-mail: andrezasilva744@gmail.com ou também pelo meu Linkedin: https://www.linkedin.com/in/andreza-silva-931377152/ ;
 - 😄 Pronouns: ela/dela;
-- ⚡ Esportes: Triatlon;
+- ⚡ Esportes: Ciclista;
 
  <div>
   <a href="https://github.com/anddreza">
