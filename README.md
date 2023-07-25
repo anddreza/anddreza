@@ -7,10 +7,10 @@
 - 😄 Pronouns: ela/dela;
 - ⚡ Esportes: Ciclista;
 
+Linguagens das quais tenho tido algum contato ao longo da minha formação: 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c)](https://skillicons.dev)
+
+Skills aprendidas durante a faculdade:
+
+[![My Skills](https://skillicons.dev/icons?i=docker,figma,linux,nginx,vscode,eclipse,git,idea)](https://skillicons.dev)
