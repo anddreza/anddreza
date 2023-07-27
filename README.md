@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalho com testes manuais e automação de testes em Cypress, tenho conhecimento em Selenium, e atualmente tenho buscado mais sobre Playwright, Robot Framework;
-- 🌱 Hoje trabalho na área de teste de software, curso Engenharia de Software na Católica de Santa Catarina;
+- 🌱 Curso Engenharia de Software na Católica de Santa Catarina;
 - 📫 Você pode me encontrar pelos links da minha bio;
 - ⚡ Esportes: Ciclista;
 
