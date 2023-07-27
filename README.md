@@ -11,6 +11,6 @@ Linguagens das quais tenho tido algum contato ao longo da minha formação:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c)](https://skillicons.dev)
 
-Skills aprendidas durante a faculdade:
+Ferramentas aprendidas durante a faculdade:
 
 [![My Skills](https://skillicons.dev/icons?i=docker,figma,linux,nginx,vscode,eclipse,git,idea)](https://skillicons.dev)
