@@ -24,7 +24,3 @@
 #### - IDEs que já tive contato:
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea)](https://skillicons.dev)
-
-
-## Snake:
-![snake animation](https://github.com/anddreza/anddreza/blob/output/github-contribution-grid-snake2.svg)
