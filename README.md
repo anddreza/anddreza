@@ -1,8 +1,8 @@
 ### Olá, eu me chamo Andreza Silva 👋
 
 
-- 🔭 Trabalho com testes manuais e automação de testes em Cypress, tenho conhecimento em Selenium, e atualmente tenho buscado mais sobre Playwright, Robot Framework, CodeceptJS;
-- 🌱 Curso Engenharia de Software na Católica de Santa Catarina;
+- 🔭 Trabalho com testes manuais e automação de testes em Cypress, mas já atuei com Selenium, e atualmente tenho buscado mais sobre Playwright, Robot Framework;
+- 🌱 Formada em Engenharia de Software na Católica de Santa Catarina;
 - 📫 Você pode me encontrar pelos links da minha bio.
 
 #### - Linguagens/Frameworks das quais tenho tido algum contato ao longo da minha formação acadêmica: 
